@@ -1,0 +1,25 @@
+{
+  "name": "kata-a-o-bisiesto",
+  "version": "1.0.0",
+  "description": "Kata año bisiesto",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuskota/KATA-A-O-BISIESTO.git"
+  },
+  "keywords": [
+    "patata"
+  ],
+  "author": "Ana Maria Mangada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuskota/KATA-A-O-BISIESTO/issues"
+  },
+  "homepage": "https://github.com/Anuskota/KATA-A-O-BISIESTO#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
